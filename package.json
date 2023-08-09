@@ -1,0 +1,25 @@
+{
+  "name": "web-starter-parcel",
+  "version": "1.0.0",
+  "description": "Web starter parcel",
+  "scripts": {
+    "serve": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadjoubran/web-starter-parcel.git"
+  },
+  "author": "Jad Joubran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jadjoubran/web-starter-parcel/issues"
+  },
+  "homepage": "https://github.com/jadjoubran/web-starter-parcel#readme",
+  "dependencies": {
+    "chart.js": "^3.5.0",
+    "parcel": "^2.0.0-beta.2",
+    "snackbar": "^1.1.0"
+  }
+}
